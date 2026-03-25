@@ -39,6 +39,7 @@ const Header = () => {
     { path: '/menu', label: 'Menu' },
     { path: '/locations', label: 'Locations' },
     { path: '/gallery', label: 'Gallery' },
+    { path: '/contact', label: 'Contact Us' },
     { path: '/order', label: 'Order Online' }
   ];
 
