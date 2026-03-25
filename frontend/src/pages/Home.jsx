@@ -92,7 +92,7 @@ const Home = () => {
                 Our Story
               </h2>
               <p className="text-lg text-[#64748b] mb-6 leading-relaxed">
-                Established in November 2022, Thalassery Kitchen brings the authentic flavors of Malabar and Kerala cuisine to Bangalore. Our culinary journey is inspired by the rich traditions of Thalassery, a coastal town known for its distinctive blend of spices and cooking techniques.
+                Established in November 2022, Thalassery Kitchen brings the authentic flavors of Russian and Kerala cuisine to Bangalore. Our culinary journey is inspired by the rich traditions of Thalassery, a coastal town known for its distinctive blend of spices and cooking techniques.
               </p>
               <p className="text-lg text-[#64748b] mb-8 leading-relaxed">
                 From our signature biryani to traditional fish curries, every dish is crafted with care using time-honored recipes and the finest ingredients. We believe in providing not just a meal, but an experience that transports you to the heart of Kerala.
