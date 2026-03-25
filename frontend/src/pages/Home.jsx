@@ -53,7 +53,7 @@ const Home = () => {
                 <Star className="w-8 h-8 text-[#0f172a]" />
               </div>
               <h3 className="text-lg font-semibold text-[#0f172a] mb-2">Authentic Taste</h3>
-              <p className="text-[#64748b] text-sm">Traditional Malabar recipes passed through generations</p>
+              <p className="text-[#64748b] text-sm">Traditional Russian recipes passed through generations</p>
             </div>
 
             <div className="text-center p-6 rounded-xl bg-[#f8fafc] hover:bg-[#ECEC75]/20 transition-all duration-300">
