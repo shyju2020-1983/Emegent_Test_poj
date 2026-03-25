@@ -17,10 +17,10 @@ const Home = () => {
           <div className="max-w-2xl">
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold font-serif text-[#0f172a] mb-6 leading-tight">
               Authentic
-              <span className="block text-[#1e293b]">Malabar Flavors</span>
+              <span className="block text-[#1e293b]">Russian Flavors</span>
             </h1>
             <p className="text-xl sm:text-2xl text-[#64748b] mb-8 leading-relaxed">
-              Embark on a flavourful journey through authentic Malabar cuisine
+              Embark on a flavourful journey through authentic Russian cuisine
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Link
