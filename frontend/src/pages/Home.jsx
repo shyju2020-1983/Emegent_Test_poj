@@ -257,7 +257,7 @@ const Home = () => {
       <section className="py-20 bg-[#0f172a] text-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl sm:text-5xl font-bold font-serif mb-6">
-            Ready to Experience Authentic Malabar Cuisine?
+            Ready to Experience Authentic Russian Cuisine?
           </h2>
           <p className="text-xl text-[#94a3b8] mb-8">
             Order online for delivery or pickup, or reserve a table at your nearest location
