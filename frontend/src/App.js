@@ -8,6 +8,7 @@ import Menu from "./pages/Menu";
 import Locations from "./pages/Locations";
 import Gallery from "./pages/Gallery";
 import OrderOnline from "./pages/OrderOnline";
+import ContactUs from "./pages/ContactUs";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path="/locations" element={<Locations />} />
           <Route path="/gallery" element={<Gallery />} />
           <Route path="/order" element={<OrderOnline />} />
+          <Route path="/contact" element={<ContactUs />} />
         </Routes>
         <Footer />
         <Toaster position="top-right" />
