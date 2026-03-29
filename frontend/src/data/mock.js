@@ -112,30 +112,12 @@ export const menuItems = [
 export const locations = [
   {
     id: 1,
-    name: "Kothanur Branch",
-    address: "Kothanur, Bangalore, Karnataka 560077",
+    name: "Test Hotels",
+    address: "Test hotels, Marathahalli, Bengaluru, Karnataka 560037",
     phone: "+91 80 1234 5678",
     hours: "10:00 AM - 11:30 PM (Daily)",
-    mapUrl: "https://maps.google.com/?q=Kothanur,Bangalore",
-    coordinates: { lat: 13.0569, lng: 77.6498 }
-  },
-  {
-    id: 2,
-    name: "Yelahanka Branch",
-    address: "Yelahanka, Bangalore, Karnataka 560064",
-    phone: "+91 80 2345 6789",
-    hours: "10:00 AM - 11:30 PM (Daily)",
-    mapUrl: "https://maps.google.com/?q=Yelahanka,Bangalore",
-    coordinates: { lat: 13.1007, lng: 77.5963 }
-  },
-  {
-    id: 3,
-    name: "Bilikere Branch",
-    address: "Bilikere, Karnataka 577432",
-    phone: "+91 80 3456 7890",
-    hours: "10:00 AM - 11:30 PM (Daily)",
-    mapUrl: "https://maps.google.com/?q=Bilikere,Karnataka",
-    coordinates: { lat: 13.3379, lng: 75.7892 }
+    mapUrl: "https://maps.google.com/?q=Marathahalli,Bengaluru",
+    coordinates: { lat: 12.9591, lng: 77.7026 }
   }
 ];
 
