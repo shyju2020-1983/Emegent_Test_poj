@@ -52,7 +52,7 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <div className="text-2xl sm:text-3xl font-bold font-serif text-[#0f172a]">
-              Thalassery
+              Test
               <span className="block text-sm font-normal text-[#64748b]">Kitchen</span>
             </div>
           </Link>
