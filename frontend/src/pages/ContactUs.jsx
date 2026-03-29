@@ -321,7 +321,7 @@ const ContactUs = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+918012345678"
+              href="tel:+9180123456789"
               className="inline-flex items-center justify-center px-8 py-4 bg-[#ECEC75] text-[#0f172a] rounded-lg font-semibold hover:bg-[#e6e67c] transition-colors"
             >
               Call Us Now
