@@ -222,7 +222,7 @@ const Home = () => {
             <h2 className="text-4xl sm:text-5xl font-bold font-serif text-[#0f172a] mb-4">
               Visit Us
             </h2>
-            <p className="text-lg text-[#64748b]">We have 3 convenient locations across Karnataka</p>
+            <p className="text-lg text-[#64748b]">We have 1 location in Bengaluru</p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
