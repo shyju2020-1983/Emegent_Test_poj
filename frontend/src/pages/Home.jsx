@@ -225,7 +225,7 @@ const Home = () => {
             <p className="text-lg text-[#64748b]">We have 1 location in Bengaluru</p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 gap-8">
             {locations.map(location => (
               <div key={location.id} className="bg-[#e6e67c]/20 p-6 rounded-2xl hover:shadow-xl transition-shadow">
                 <h3 className="text-xl font-semibold text-[#0f172a] mb-3">{location.name}</h3>
