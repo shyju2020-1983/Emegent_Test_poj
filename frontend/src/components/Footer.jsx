@@ -12,10 +12,10 @@ const Footer = () => {
           {/* About Section */}
           <div>
             <h3 className="text-2xl font-bold font-serif mb-4 text-[#ECEC75]">
-              Thalassery Kitchen
+              Test Kitchen
             </h3>
             <p className="text-[#94a3b8] text-sm leading-relaxed mb-4">
-              Embark on a flavourful journey through authentic Malabar cuisine. Serving Bangalore since November 2022.
+              Embark on a flavourful journey through authentic Russian cuisine. Serving Bangalore since November 2022.
             </p>
             <div className="flex space-x-3">
               <a
