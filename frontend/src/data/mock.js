@@ -127,8 +127,8 @@ export const reviews = [
     name: "Rajesh Kumar",
     rating: 5,
     date: "2024-01-15",
-    comment: "Authentic Malabar taste! The biryani reminds me of my hometown. Excellent value for money.",
-    location: "Kothanur"
+    comment: "Authentic Russian taste! The biryani reminds me of my hometown. Excellent value for money.",
+    location: "Marathahalli"
   },
   {
     id: 2,
@@ -136,7 +136,7 @@ export const reviews = [
     rating: 4,
     date: "2024-01-10",
     comment: "Great food quality and generous portions. The fish curry is outstanding. Family-friendly atmosphere.",
-    location: "Yelahanka"
+    location: "Marathahalli"
   },
   {
     id: 3,
@@ -144,7 +144,7 @@ export const reviews = [
     rating: 5,
     date: "2024-01-08",
     comment: "Best Kerala meals in Bangalore! Served on banana leaf just like home. Must try their pomfret curry.",
-    location: "Kothanur"
+    location: "Marathahalli"
   },
   {
     id: 4,
@@ -152,15 +152,15 @@ export const reviews = [
     rating: 4,
     date: "2024-01-05",
     comment: "Affordable and delicious. The peri peri alfham is my favorite. Quick service and clean ambiance.",
-    location: "Bilikere"
+    location: "Marathahalli"
   },
   {
     id: 5,
     name: "Mohammed Rafi",
     rating: 5,
     date: "2023-12-28",
-    comment: "Finally found authentic Thalassery biryani in Bangalore! The spices are perfectly balanced.",
-    location: "Yelahanka"
+    comment: "Finally found authentic Test biryani in Bangalore! The spices are perfectly balanced.",
+    location: "Marathahalli"
   },
   {
     id: 6,
@@ -168,7 +168,7 @@ export const reviews = [
     rating: 4,
     date: "2023-12-20",
     comment: "Good food at reasonable prices. The sulaimani tea is refreshing. Will definitely come back!",
-    location: "Kothanur"
+    location: "Marathahalli"
   }
 ];
 
