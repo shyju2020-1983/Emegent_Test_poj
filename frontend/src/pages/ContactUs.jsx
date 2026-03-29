@@ -178,7 +178,7 @@ const ContactUs = () => {
                   className="w-full flex items-center justify-center space-x-2 px-8 py-4 bg-[#0f172a] text-white rounded-lg font-semibold hover:bg-[#1e293b] transition-colors"
                 >
                   <Send className="w-5 h-5" />
-                  <span>Send Message</span>
+                  <span>Send Message here</span>
                 </button>
               </form>
             </div>
