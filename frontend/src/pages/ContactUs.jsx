@@ -68,7 +68,7 @@ const ContactUs = () => {
                 <MapPin className="w-8 h-8 text-[#0f172a]" />
               </div>
               <h3 className="text-lg font-semibold text-[#0f172a] mb-2">Visit Us</h3>
-              <p className="text-[#64748b] text-sm">3 Locations in Karnataka</p>
+              <p className="text-[#64748b] text-sm">1 Location in Bengaluru</p>
             </div>
 
             {/* Hours */}
