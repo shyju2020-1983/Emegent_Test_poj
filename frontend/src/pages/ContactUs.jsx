@@ -188,7 +188,7 @@ const ContactUs = () => {
               {/* Location Selector */}
               <div className="bg-white rounded-2xl p-6 shadow-xl">
                 <h3 className="text-2xl font-bold font-serif text-[#0f172a] mb-4">
-                  Our Locations
+                  Our Location
                 </h3>
                 <div className="space-y-3">
                   {locations.map(location => (
