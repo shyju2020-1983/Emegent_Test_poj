@@ -133,7 +133,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-[#1e293b]">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-[#64748b] text-sm">
-              © {currentYear} Thalassery Kitchen. All rights reserved.
+              © {currentYear} Test Kitchen. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <Link to="/privacy" className="text-[#64748b] hover:text-[#ECEC75] text-sm transition-colors">
