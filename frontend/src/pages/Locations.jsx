@@ -29,10 +29,10 @@ const Locations = () => {
       <section className="bg-gradient-to-br from-[#ECEC75] via-[#e6e67c] to-[#ECEC75] py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-5xl sm:text-6xl font-bold font-serif text-[#0f172a] mb-4">
-            Our Locations
+            Our Location
           </h1>
           <p className="text-xl text-[#64748b] max-w-2xl mx-auto">
-            Visit us at any of our three convenient locations across Karnataka
+            Visit us at our location in Marathahalli, Bengaluru
           </p>
         </div>
       </section>
