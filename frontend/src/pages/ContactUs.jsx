@@ -57,7 +57,7 @@ const ContactUs = () => {
                 <Mail className="w-8 h-8 text-[#0f172a]" />
               </div>
               <h3 className="text-lg font-semibold text-[#0f172a] mb-2">Email Us</h3>
-              <a href="mailto:info@testhotel.com" className="text-[#64748b] hover:text-[#0f172a] transition-colors text-sm">
+              <a href="mailto:info@testhotell.com" className="text-[#64748b] hover:text-[#0f172a] transition-colors text-sm">
                 info@testhotel.com
               </a>
             </div>
