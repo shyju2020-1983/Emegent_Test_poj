@@ -6,7 +6,7 @@ import { toast } from 'sonner';
 const ContactUs = () => {
   const [selectedLocation, setSelectedLocation] = useState(locations[0]);
 
-  const handleSubmit = (e) => {
+  const handleSubmit = (e) => { 
     e.preventDefault();
     const formData = new FormData(e.target);
     const data = {
@@ -31,7 +31,7 @@ const ContactUs = () => {
             Contact Us
           </h1>
           <p className="text-xl text-[#64748b] max-w-2xl mx-auto">
-            We'd love to hear from you. Get in touch with us for any inquiries or feedback
+            We'd love to hear from you. Get in touch with us for any Enquiries or feedback
           </p>
         </div>
       </section>
